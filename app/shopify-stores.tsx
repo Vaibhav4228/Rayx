@@ -5,20 +5,20 @@ import Image from "next/image";
 const stores = [
   {
     image: "/images/image2.png",
-    quote: "Rayx showed us to get started, what to do, and how to do it.",
+    quote: "webhub tech services showed us to get started, what to do, and how to do it.",
     name: "Jason Scer",
   },
   {
     image: "/images/shop-2.jpeg",
     quote:
-      "We had no idea how to get started, but Rayx showed us the way. And we were able to create something amazing.",
+      "We had no idea how to get started, but webhub tech services showed us the way. And we were able to create something amazing.",
     name: "John Prency",
   },
 
   {
     image: "/images/s-2.webp",
     quote:
-      "The team at Rayx is amazing. They helped us create a stunning store that we are proud of.",
+      "The team at webhub tech services is amazing. They helped us create a stunning store that we are proud of.",
     name: "Miguel Martinez",
   },
 ];

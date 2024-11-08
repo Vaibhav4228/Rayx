@@ -32,7 +32,7 @@ export function ThreeDCardExample() {
                   Poster Maker
                 </h1>
                 <p className="text-sm text-gray-500">
-                  It's not a party without BeFunky's Graphic Designer. Our
+                  It&#39;s not a party without BeFunky&#39;s Graphic Designer. Our
                   Poster Maker simplifies the process of designing captivating
                   posters for your next celebration, business meeting, or any
                   other event.
@@ -132,14 +132,14 @@ export function ThreeDCardExample() {
                   Banner Maker
                 </h1>
                 <p className="text-sm text-gray-500">
-                Capture your audience's attention with expertly designed banner templates for web ads, social media, Etsy stores and so much more.
+                  Capture your audience&#39;s attention with expertly designed banner templates for web ads, social media, Etsy stores and so much more.
                 </p>
               </div>
             </CardItem>
           </div>
         </CardBody>
       </CardContainer>
-      {/* Repeat the same structure for the remaining cards */}
+
       <CardContainer>
         <CardBody className="bg-gray-50 relative group/card dark:hover:shadow-2xl dark:hover:shadow-emerald-500/[0.1] dark:bg-black dark:border-white/[0.2] border-black/[0.1] w-auto sm:w-[30rem] h-auto rounded-xl p-6 border">
           <CardItem translateZ="100" className="w-full mt-4">
@@ -163,7 +163,7 @@ export function ThreeDCardExample() {
                   Flyer Maker
                 </h1>
                 <p className="text-sm text-gray-500">
-                Make your flyers stand out. Use drag-and-drop simplicity to add your logo, unique vector graphics, and a huge selection of fonts to design flyers that would catch anyone's eye.
+                  Make your flyers stand out. Use drag-and-drop simplicity to add your logo, unique vector graphics, and a huge selection of fonts to design flyers that would catch anyone&#39;s eye.
                 </p>
               </div>
             </CardItem>
@@ -194,7 +194,7 @@ export function ThreeDCardExample() {
                   Card Maker
                 </h1>
                 <p className="text-sm text-gray-500">
-                Nothing says love like a homemade card. Show your friends and family you care and make them a custom card, beautifully designed with BeFunky.
+                  Nothing says love like a homemade card. Show your friends and family you care and make them a custom card, beautifully designed with BeFunky.
                 </p>
               </div>
             </CardItem>

@@ -9,7 +9,7 @@ import { PiCheckCircleFill } from "react-icons/pi";
 import Navbar from "@/components/navbar";
 
 const plans = [
-  {
+  {   
     index: 0,
     name: "Basic",
     price: " US $499",

@@ -53,7 +53,7 @@ const Brands = () => {
                 width={500}
                 height={500}
                 alt="logo"
-                className="w-full h-auto max-w-full rounded-lg"
+                className="w-full h-auto max-w-full "
               />
             </div>
           ))}
@@ -61,21 +61,21 @@ const Brands = () => {
 
         <div
           className={cn(
-            "flex items-center justify-center text-xl xl:text-2xl pt-10 md:pt-0 pb-4  px-8  text-center text-white  ",
+            "flex items-center justify-center text-xl xl:text-4xl pt-10 md:pt-0 pb-6  px-10  text-center text-white  ",
             font.className
           )}
         >
           &quot;We got rid of nearly a dozen different tools because of what
-          Rayx does for us.&quot;
+          webhub tech services does for us.&quot;
         </div>
 
-        <div className="items-center flex justify-center flex-col text-white">
+        <div className="items-center flex justify-center flex-col text-black">
           <Image
-            src="/images/logo.svg"
+            src="/images/logo1.png"
             alt="logo"
-            width={1000}
+            width={2000}
             height={1000}
-            className="pt-2 xl:pt-0  w-10 xl:w-14 "
+            className="pt-2 xl:pt-0  w-15 xl:w-116 "
           />
 
           <div className=" text-center">
